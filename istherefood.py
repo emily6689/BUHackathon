@@ -54,5 +54,3 @@ def count_instances_of_each_food_term():
     print food_term_count
 
 
-count_instances_of_each_food_term()
-
